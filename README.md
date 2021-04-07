@@ -147,7 +147,7 @@
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`Fadhil Graphy`](https://github.com/MrK4ZUT0)
-* [`Fdl Ganz`] (https://github.com/Fdlbot) 
+* [`Fdl Ganz`](https://github.com/Fdlbot) 
 
 </p> 
 
@@ -155,6 +155,6 @@
 
 
 * [`WhatsApp Admin `](https://wa.me/6281211651261)
-* [`YouTobe Admin`] (https://youtube.com/channel/UCnq33VbY6ZmD5ttJEatreoQ) 
+* [`YouTobe Admin `](https://youtube.com/channel/UCnq33VbY6ZmD5ttJEatreoQ) 
 
 
